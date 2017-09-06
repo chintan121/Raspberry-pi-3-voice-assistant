@@ -1,10 +1,8 @@
 
-before running please follow below steps
+Before running please follow steps below:-
 
 Add to sources.list
-
 deb http://ppa.launchpad.net/canonical-chromium-builds/stage/ubuntu/ trusty main
-
 deb-src http://ppa.launchpad.net/canonical-chromium-builds/stage/ubuntu/ trusty main 
 
 sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys DB69B232436DAC4B50BDC59E4E1B983C5B393194
