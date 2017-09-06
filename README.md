@@ -35,63 +35,36 @@ sudo pip install beautifulsoup4
 
 
 
-comman command raspberry 
-
-  bulb on
-
-  bulb off
-
-  security on
-
-  security code 999
-
-  play <name of song or caractor without name mistake> song
-
-  random song
-
-  stop song
-
-  pause song
-
-  resume song
-
-  set volume high
-
-  set volume low
-
-  set volume medium
-
-  what's time
-
-  what's date
-
-  what's temprature
-
-  what's humidity
-
-  say joke
-
-  set <?hour and or ?minute and or ?second> alert
-
-  stop alert
-
-  set <?hour and ?minute AM or PM > alarm
-
-  stop alarm
-
-  weather (today,tomorrow,sunday to saturday.)
-
-  update news
-
-  repeat news
-
-  say me news
-
-  note <bla bla bal> save
-
-  open note
-
-  clean <number> note
+Commands:-
+before giving command its compulsory to say raspberry
+bulb on
+bulb off
+security on
+security code 999
+play <name of song or caractor without name mistake> song
+random song
+stop song
+pause song
+resume song
+set volume high
+set volume low
+set volume medium
+what's time
+what's date
+what's temprature
+what's humidity
+say joke
+set <?hour and or ?minute and or ?second> alert
+stop alert
+set <?hour and ?minute AM or PM > alarm
+stop alarm
+weather (today,tomorrow,sunday to saturday.)
+update news
+repeat news
+say me news
+note <bla bla bal> save
+open note
+clean <number> note
 
 
 
@@ -106,13 +79,9 @@ comman command raspberry
 
 
 New ideas
-
-  add a camera an can have live view of house(required wifi with port forwarding).
-
-  with camera you can also use openCV and add face recognisation.
-
-  add Automatic room temp. maintaining by using dht11 & home AC 
-
-  add mail commands with voice control.
+add a camera an can have live view of house(required wifi with port forwarding).
+with camera you can also use openCV and add face recognisation.
+add Automatic room temp. maintaining by using dht11 & home AC 
+add mail commands with voice control.
 
 
