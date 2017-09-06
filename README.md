@@ -1,7 +1,7 @@
 
 before running please follow below steps
 
-﻿Add to sources.list
+Add to sources.list.
 deb http://ppa.launchpad.net/canonical-chromium-builds/stage/ubuntu/ trusty main
 deb-src http://ppa.launchpad.net/canonical-chromium-builds/stage/ubuntu/ trusty main 
 
