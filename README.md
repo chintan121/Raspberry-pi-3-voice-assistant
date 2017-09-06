@@ -37,61 +37,61 @@ sudo pip install beautifulsoup4
 
 comman command raspberry 
 
-bulb on
+  bulb on
 
-bulb off
+  bulb off
 
-security on
+  security on
 
-security code 999
+  security code 999
 
-play <name of song or caractor without name mistake> song
+  play <name of song or caractor without name mistake> song
 
-random song
+  random song
 
-stop song
+  stop song
 
-pause song
+  pause song
 
-resume song
+  resume song
 
-set volume high
+  set volume high
 
-set volume low
+  set volume low
 
-set volume medium
+  set volume medium
 
-what's time
+  what's time
 
-what's date
+  what's date
 
-what's temprature
+  what's temprature
 
-what's humidity
+  what's humidity
 
-say joke
+  say joke
 
-set <?hour and or ?minute and or ?second> alert
+  set <?hour and or ?minute and or ?second> alert
 
-stop alert
+  stop alert
 
-set <?hour and ?minute AM or PM > alarm
+  set <?hour and ?minute AM or PM > alarm
 
-stop alarm
+  stop alarm
 
-weather (today,tomorrow,sunday to saturday.)
+  weather (today,tomorrow,sunday to saturday.)
 
-update news
+  update news
 
-repeat news
+  repeat news
 
-say me news
+  say me news
 
-note <bla bla bal> save
+  note <bla bla bal> save
 
-open note
+  open note
 
-clean <number> note
+  clean <number> note
 
 
 
@@ -107,12 +107,12 @@ clean <number> note
 
 New ideas
 
-add a camera an can have live view of house(required wifi with port forwarding).
+  add a camera an can have live view of house(required wifi with port forwarding).
 
-with camera you can also use openCV and add face recognisation.
+  with camera you can also use openCV and add face recognisation.
 
-add Automatic room temp. maintaining by using dht11 & home AC 
+  add Automatic room temp. maintaining by using dht11 & home AC 
 
-add mail commands with voice control.
+  add mail commands with voice control.
 
 
